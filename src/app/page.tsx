@@ -1,9 +1,18 @@
-import { About, Container, Photos } from "@/components";
+"use client";
+import {
+  About,
+  Container,
+  Photos,
+  Resume,
+  SocialLink,
+  TechStack,
+} from "@/components";
 import {
   FadeUpWrapper,
   ScrollLeftWrapper,
   ZoomInUpWrapper,
 } from "@/framer-motion";
+import { GitHubIcon, LinkedInIcon, MailIcon } from "@/icons";
 
 export default function Home() {
   return (
