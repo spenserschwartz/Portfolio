@@ -6,6 +6,8 @@ import { Header } from "./Header";
 import HeaderLogo from "./HeaderLogo";
 import Logo from "./Logo";
 import Photos from "./Photos";
+import Resume from "./Resume";
+import SocialLink from "./SocialLink";
 import TechStack from "./TechStack";
 import { ThemeProvider } from "./ThemeProvider";
 
@@ -20,6 +22,8 @@ export {
   HeaderLogo,
   Logo,
   Photos,
+  Resume,
+  SocialLink,
   TechStack,
   ThemeProvider,
 };
