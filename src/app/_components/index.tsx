@@ -1,4 +1,5 @@
 import About from "./About";
+import { Button } from "./Button";
 import { Container, ContainerInner, ContainerOuter } from "./Container";
 import Footer from "./Footer";
 import { Header } from "./Header";
@@ -10,6 +11,7 @@ import { ThemeProvider } from "./ThemeProvider";
 
 export {
   About,
+  Button,
   Container,
   ContainerInner,
   ContainerOuter,
