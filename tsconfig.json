@@ -17,8 +17,12 @@
         "name": "next"
       }
     ],
+    /* Path Aliases */
+    "baseUrl": ".",
     "paths": {
-      "@/*": ["./src/*"]
+      "~/*": ["./src/*"],
+      "@/components": ["./src/app/_components"],
+      "@/components/*": ["./src/app/_components/*"],
     }
   },
   "include": ["next-env.d.ts", "**/*.ts", "**/*.tsx", ".next/types/**/*.ts"],
