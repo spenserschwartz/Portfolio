@@ -1,4 +1,5 @@
 import GraphQLIcon from "./GraphQL";
 import NextIcon from "./Next";
+import NodeIcon from "./Node";
 
-export { GraphQLIcon, NextIcon };
+export { GraphQLIcon, NextIcon, NodeIcon };
