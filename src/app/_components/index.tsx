@@ -1,3 +1,4 @@
+import { Container, ContainerInner, ContainerOuter } from "./Container";
 import { ThemeProvider } from "./ThemeProvider";
 
-export { ThemeProvider };
+export { Container, ContainerInner, ContainerOuter, ThemeProvider };
