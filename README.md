@@ -10,9 +10,19 @@
   <img  src="https://travelperfect-bucket.s3.us-west-1.amazonaws.com/portfolio/Peru+Alpaca.png">
 </p>
 
-## Getting Started
+<h1 align="center">
+    <a href="https://travelperfect.io">TravelPerfect</a>
+</h1>
 
-First, run the development server:
+<p align="center">
+    Please feel free to check out my passion project, TravelPerfect. 
+</p>
+
+<p align="center">
+  <img  src="public/images/penguin_purp_cropped.png">
+</p>
+
+## Getting Started
 
 ```bash
 npm run dev
