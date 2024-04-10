@@ -2,6 +2,8 @@
 
 Hello! Welcome to my portfolio repository. You can see it live at [`this link`](https://spenserschwartz.com).
 
+![PenguinSuitcase](/public/images/penguin_purp_cropped.png)
+
 ## Getting Started
 
 First, run the development server:
