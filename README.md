@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-    Hello! Welcome to my portfolio repository. You can see it live at [`this link`](https://spenserschwartz.com).
+    Hello! Welcome to my portfolio repository. You can see it live <a href="https://spenserschwartz.com">at this link.</a>
 </p>
 
 <p align="center">
