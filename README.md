@@ -15,7 +15,7 @@
 </h1>
 
 <p align="center">
-    Please feel free to check out my passion project, TravelPerfect. 
+    Please feel free to check out my passion project, <a href="https://www.travelperfect.io">TravelPerfect</a>
 </p>
 
 <p align="center">
