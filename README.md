@@ -1,6 +1,6 @@
-<p align="center">
-# [`SpenserSchwartz.com`](https://spenserschwartz.com)
-</p>
+<h1 align="center">
+[`SpenserSchwartz.com`](https://spenserschwartz.com)
+</h1>
 
 Hello! Welcome to my portfolio repository. You can see it live at [`this link`](https://spenserschwartz.com).
 
