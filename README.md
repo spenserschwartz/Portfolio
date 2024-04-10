@@ -2,7 +2,9 @@
     <a href="https://spenserschwartz.com">SpenserSchwartz.com</a>
 </h1>
 
-Hello! Welcome to my portfolio repository. You can see it live at [`this link`](https://spenserschwartz.com).
+<p align="center">
+    Hello! Welcome to my portfolio repository. You can see it live at [`this link`](https://spenserschwartz.com).
+</p>
 
 <p align="center">
   <img  src="/public/images/penguin_purp_cropped.png">
